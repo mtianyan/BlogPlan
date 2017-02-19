@@ -1,0 +1,4 @@
+<h1>文章内容</h1>
+<h4>{$postpage.titile}</h4>
+<h5>{$postpage.timestamp| date ='Y:m:d H:i:s',###}</h5>
+<p>{$postpage.content}</p>

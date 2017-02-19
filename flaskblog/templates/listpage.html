@@ -1,0 +1,34 @@
+{% extends 'layout.html' %}
+{% block body %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<style type="text/css">
+    .p{
+        padding: 10px 30px;
+        border: 1px solid #888;
+        margin: 20px 0;
+    }
+
+
+</style>
+<body>
+<h1>文章列表</h1>
+    <div id="listpage">
+    {% for item in data %}
+        <div class="p">
+            <h4><a href="{{url_for('postpage',postpage_id =item['id'])}}">{{item['title']}}</a></h4>
+            
+            <p>{{item['timestamp']}}</p>
+
+        </div>
+    {% endfor %}
+        
+</div>
+</body>
+</html>
+{% endblock %}
+<!-- {{url_for('static',filename ='test.css')}} -->
+

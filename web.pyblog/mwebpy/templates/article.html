@@ -1,0 +1,16 @@
+$def with (r)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>article</title>
+</head>
+<body>
+	<h1>文章列表</h1>
+
+	<ul>
+		$for l in r:
+			<li>$l.get('id') => $l.get('title')</li>
+	</ul>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{% extends 'layout.html' %}
+{% block body %}
+<h1>欢迎来到我的博客</h1>
+<p>其实真正的博客在
+<a href="http://www.baidu.com" target="_blank">这里</a>
+
+</p>
+<form action={{url_for('handle')}} method="post" >
+	<h4>添加文章</h4>
+	<input type="text" name="title" placeholder="标题">
+	<br>
+	<textarea name ="content" cols="30" rows="20" placeholder="内容" ></textarea>
+	<button type="submit" >提交</button>
+</form>
+{% endblock %}

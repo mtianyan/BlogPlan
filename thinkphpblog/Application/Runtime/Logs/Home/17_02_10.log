@@ -1,0 +1,456 @@
+[ 2017-02-10T00:03:49+08:00 ] 127.0.0.1 /web/website/tpblog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000687s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000762s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001100s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001163s ]
+
+[ 2017-02-10T00:03:58+08:00 ] ::1 /web/website/tpblog/index.php/Home/index/listpage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.1002s ]
+SQL: SELECT * FROM `mtianyan`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\tpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\tpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\tpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\tpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\tpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\tpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\tpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017107s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-02-10T00:04:02+08:00 ] ::1 /web/website/tpblog/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-02-10T00:11:45+08:00 ] ::1 /web/website/thinkphpblog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-02-10T00:11:59+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/Index/handle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0052s ]
+SQL: INSERT INTO `mtianyan` (`content`,`timestamp`) VALUES ('反反复复','1486656718') [ RunTime:0.0520s ]
+
+[ 2017-02-10T00:12:00+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/Index/listpage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `mtianyan`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007885s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2017-02-10T00:12:04+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005345s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2017-02-10T00:12:11+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/Index/handle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0069s ]
+SQL: INSERT INTO `mtianyan` (`content`,`timestamp`) VALUES ('大神大撒所多','1486656731') [ RunTime:0.0004s ]
+
+[ 2017-02-10T00:12:12+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/Index/listpage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `mtianyan`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005828s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001150s ]
+
+[ 2017-02-10T00:12:16+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/index/listpage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `mtianyan`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\99f68ef9af02c1d3abf041ec358fea64.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006242s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000784s ]
+
+[ 2017-02-10T00:13:47+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/index/listpage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `mtianyan`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005782s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2017-02-10T00:13:49+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/Index/postpage/id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `mtianyan` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0322s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: titile F:\phpstudy\WWW\web\website\thinkphpblog\Application\Runtime\Cache\Home\86f0e917d5c027e442658f00db45d7e7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2017-02-10T00:13:51+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000991s ]
+
+[ 2017-02-10T00:14:44+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/index/listpage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001519s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `mtianyan`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009436s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001158s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001222s ]
+
+[ 2017-02-10T00:14:47+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/Index/postpage/id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `mtianyan` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000881s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001168s ]
+
+[ 2017-02-10T00:14:50+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011150s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001103s ]
+
+[ 2017-02-10T00:14:53+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/index/listpage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `mtianyan`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010677s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2017-02-10T00:14:56+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/Index/postpage/id/17.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `mtianyan` WHERE `id` = 17 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000960s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2017-02-10T00:14:59+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010922s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001658s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001349s ]
+
+[ 2017-02-10T00:15:01+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/index/listpage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+SQL: SHOW COLUMNS FROM `mtianyan` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `mtianyan`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009259s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2017-02-10T00:15:06+08:00 ] ::1 /web/website/thinkphpblog/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001186s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010305s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001050s ]
+

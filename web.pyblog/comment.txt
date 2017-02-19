@@ -1,0 +1,8 @@
+# web.input()
+# 请求参数获取
+# web.ctx.env
+# 请求头获取
+#
+模版文件读取 render.index("参数")
+结果数据获取 model.select("sql")
+url跳转web.seeother("/")

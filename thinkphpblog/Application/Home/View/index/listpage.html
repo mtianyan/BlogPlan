@@ -1,0 +1,21 @@
+<style type="text/css">
+	.p{
+		padding: 10px 30px;
+		border: 1px solid #888;
+		margin: 20px 0;
+	}
+
+
+</style>
+<h1>文章列表</h1>
+    <div id="listpage">
+    	<foreach name="data" item='v'>
+    	<div class="p">
+    		<h4><a href="{:U('Index/postpage',array('id'=>$v['id']))}">{$v.title}</a></h4>
+    		
+    		<p>{$v.timestamp| date ='Y:m:d H:i:s',###}</p>
+
+    	</div>
+    	  </foreach>
+		
+</div>
